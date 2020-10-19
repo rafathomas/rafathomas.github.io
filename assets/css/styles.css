@@ -173,6 +173,11 @@ img {
         background-color: var(--second-color);
         transition: .5s;
     }
+        img {
+        max-width: 70%;
+        height: auto;
+        display: block;
+    }
 }
 
 .nav__item {
