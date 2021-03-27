@@ -155,3 +155,37 @@ $('#open-popup7').magnificPopup({
     },
     type: 'image' // this is a default type
 });
+
+$('#open-popup8').magnificPopup({
+    items: [{
+            src: 'assets/img/tela-alugar.JPG',
+            title: 'Tela de Alugar imóveis, com filtro avançado'
+        },
+        {
+            src: 'assets/img/painel-adm.JPG',
+            title: 'Painel do Administrador para fazer todo gerenciamento'
+        },
+
+    ],
+    gallery: {
+        enabled: true
+    },
+    type: 'image' // this is a default type
+});
+
+$('#open-popup9').magnificPopup({
+    items: [{
+            src: 'assets/img/painel-pedidos.JPG',
+            title: 'Tela onde é feito o pedido, enviado para sacola e finalizando preenchendo os dados da entrega'
+        },
+        {
+            src: 'assets/img/painel-admin.JPG',
+            title: 'Painel do Administrador para fazer todo gerenciamento do restaurante, movimentação dos lucros'
+        },
+
+    ],
+    gallery: {
+        enabled: true
+    },
+    type: 'image' // this is a default type
+});
