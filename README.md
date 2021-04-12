@@ -5,14 +5,14 @@
 
 - 👨‍💻 All of my projects are available at [http://rafathomas.github.io/](http://rafathomas.github.io/)
 
-- 📝 I regularly write articles on [Desenvolvimento Web](Desenvolvimento Web)
+- 📝 I regularly write articles on [Desenvolvimento Web]
 
 - 📫 How to reach me **contato.rafaelthomas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-thomas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rafael-thomas/" height="30" width="40" /></a>
-<a href="https://fb.com/rafinha.thomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rafinha.thomas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-thomas/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rafael-thomas/" height="30" width="40" /></a>
+<a href="https://fb.com/rafinha.thomas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rafinha.thomas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
